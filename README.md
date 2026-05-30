@@ -85,3 +85,6 @@ Dhairya Gemini
 ## License
 
 This project is intended for educational, research, and portfolio purposes.
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/3ba4e359-2492-48c9-953d-d3055d79e3cd" />
+
+
